@@ -11,6 +11,7 @@ This project predicts whether a loan will be approved using Machine Learning.
 ## 🌐 Live Demo
 https://akhila56-loan-prediction-app.hf.space
 
+
 ## 🛠 Technologies Used
 - Python
 - Pandas
